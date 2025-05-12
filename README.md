@@ -13,4 +13,4 @@ https://www.tenforums.com/tutorials/14312-restore-windows-photo-viewer-windows-1
 
 ______________________________________________________________________________________________
 
-Need a regular or custom Start Skin? try out Windhawk.
+Need a regular or custom Start Skin? Try out Windhawk.
