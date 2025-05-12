@@ -15,7 +15,9 @@ ________________________________________________________________________________
 
 Need a regular or custom Start Skin? Try out Windhawk. These are modding you're layout.
 
-Should try "Classic Explorer Navigation"
+Should try:
+
+Classic Explorer Navigation
 - Classic navigation bar
 
 Windows 11 Start Menu Styler
