@@ -1,5 +1,5 @@
 # Block Windows 11 + W10 + Stop Telemetry
-Created a few bat files that can be automated without digging into the OS to turn them off manually. 
+Created a few bat files that are automated without digging into the OS to turn them off manually. 
 
 Have yourself a FRESH Windows 11 Installation? Just run these three files under Administration.
 
