@@ -5,7 +5,7 @@ Have yourself a FRESH Windows 11 Installation? Just run these three files under 
 
 Some changes might require a reboot to take full effect.
 
-
+______________________________________________________________________________________________
 
 How to Restore Windows Photo Viewer in Windows 10+11
 
