@@ -13,7 +13,7 @@ https://www.tenforums.com/tutorials/14312-restore-windows-photo-viewer-windows-1
 
 ______________________________________________________________________________________________
 
-Need a regular or custom Start Skin? Try out Windhawk.
+Need a regular or custom Start Skin? Try out Windhawk. These are modding you're layout.
 
 Should try "Classic Explorer Navigation"
 - Classic navigation bar
@@ -24,7 +24,11 @@ Windows 11 Start Menu Styler
 Windows 11 Taskbar Styler
 - WinXP
 
-Aero Flyout Fix (Windows 7 Notifactions Fly Out)
+Aero Flyout Fix 
+- (Windows 7 Notifactions Fly Out)
 
 Aerexplorer
-  
+- (Regular Windows 10 explore)
+
+Verticle Taskbar fo Windows 11
+- (Left and Right Sides)
